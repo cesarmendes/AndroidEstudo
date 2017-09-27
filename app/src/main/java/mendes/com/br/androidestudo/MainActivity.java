@@ -30,12 +30,12 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId())
         {
             case R.id.mnu_option:
-                Toast.makeText(MainActivity.this, "Opções", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Opções fda", Toast.LENGTH_SHORT).show();
 
                 break;
 
             case R.id.mnu_exit:
-                Toast.makeText(MainActivity.this, "Sair", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Sair daff", Toast.LENGTH_SHORT).show();
                 break;
 
         }
